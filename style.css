@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+    color: white;
+    
+    font-weight: 500;
+}
+
+.txt{
+    font-weight: 500;
+}
+
+.cat{
+    margin-left: 100px;
+}
+
+.gerar{
+    font-weight: 700;
+    position: fixed;
+    height: 30px;
+    width: 100px;
+    background-color: rgb(166, 126, 126);
+    border: 1px solid rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.gerar:hover{
+    background-color: rgb(179, 100, 100);
+}
